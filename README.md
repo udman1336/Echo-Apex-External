@@ -56,6 +56,18 @@ Echo_Apex/
 4. Update `include/Offsets.h` with the latest game base values.
 5. Compile and run.
 
+<p align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-20-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6)
+![Renderer](https://img.shields.io/badge/DirectX-11-green)
+![IDE](https://img.shields.io/badge/Visual%20Studio-2022-purple)
+![License](https://img.shields.io/github/license/udman1336/Echo-Apex-External)
+![Stars](https://img.shields.io/github/stars/udman1336/Echo-Apex-External)
+![Visitors](https://komarev.com/ghpvc/?username=udman1336&repo=Echo-Apex-External&style=for-the-badge)
+
+</p>
+
 ---
 
 ## Disclaimer
