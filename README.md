@@ -1,4 +1,4 @@
-# Echo Apex - Futuristic Overlay Framework & ImGui Base
+# Echo Apex - Futuristic ImGui Menu & Fully Featured Apex External
 
 A high-performance C++ DirectX 11 external overlay base featuring a custom futuristic ImGui styling theme, optimized cache-friendly multi-thread player scanning, and build-ready dependency structures.
 
