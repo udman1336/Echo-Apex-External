@@ -4,7 +4,7 @@ A high-performance C++ DirectX 11 external overlay base featuring a custom futur
 
 > **Note**: This repository contains stubbed driver communications (`include/Driver.h`). To use this in your own projects, implement your own kernel driver loading hooks or memory reader backend.
 
-
+UnknownCheats (UC) Post: https://www.unknowncheats.me/forum/apex-legends/761218-echo-apex-legends-external-updated-7-7-2026-a.html
 
 ---
 
