@@ -1,7 +1,7 @@
 #pragma once
 
 #define OFFSET_ENTITYLIST		    0x641a428 //cl_entitylist
-#define OFFSET_LOCAL_ENT			0x26abff8 //LocalPlayer  
+#define OFFSET_LOCAL_ENT			0x253a070 //LocalPlayer
 #define OFFSET_LEVELNAME            0x1e56864 //
 #define OFFSET_INATTACK				0x3f331a8 //+attack
 
@@ -19,15 +19,15 @@
 #define OFFSET_BLEED_OUT_STATE		0x27d8 //m_bleedoutState
 #define OFFSET_studioHdr 0x1010 //studioHdr
 
-#define OFFSET_CURRENT_WEAPON		0x19e4 //m_latestPrimaryWeapons
+#define OFFSET_CURRENT_WEAPON		0x1978 //m_latestPrimaryWeapons
 #define OFFSET_CURRENT_WEAPONID		0x1890 //m_weaponNameIndex
 #define OFFSET_WEAPON				0x1a70 //m_activeWeapon
-#define OFFSET_BULLET_SPEED			0x1774 //m_flProjectileSpeed
+#define OFFSET_BULLET_SPEED			0x28e0 //m_flProjectileSpeed
 #define OFFSET_BULLET_SCALE			0x3b0 //m_flProjectileScale
 #define OFFSET_ZOOM_FOV				0x1e68 //m_zoomFOV
 #define OFFSET_AMMO					0x1620 //m_ammoInClip
 #define OFFSET_ORIGIN				0x16c  //[DataMap.CBaseViewModel]m_vecAbsOrigin
-#define OFFSET_BONES				0xdc8 + 0x48 ////m_nForceBone
+#define OFFSET_BONES				0xe10 ////m_nForceBone
 #define OFFSET_AIMPUNCH				0x2510 //m_currentFrameLocalPlayer.m_vecPunchWeapon_Angle
 #define OFFSET_CAMERAPOS			0x1fbc //CPlayer!camera_origin
 #define OFFSET_VIEWANGLES			0x25f8 //m_viewangle
@@ -35,10 +35,10 @@
 
 #define OFFSET_MATRIX				0x11a390  //ViewMatrix
 #define OFFSET_RENDER				0x3f30868 //ViewRender
-#define OFFSET_ITEMID				0x15e4  //m_customScriptInt
+#define OFFSET_ITEMID				0x15f4  //m_customScriptInt
 #define m_currentFramePlayertimeBase 0x2160 //m_currentFramePlayer.timeBase
 #define OFFSET_SIGNIFIER			0x0478		// m_iSignifierName
-#define OFFSET_ABS_VELOCITY			0x0160		// C_Player : m_vecAbsVelocity
+#define OFFSET_ABS_VELOCITY			0x0374		// C_Player : m_vecAbsVelocity
 
 // Highlight offsets (Apex uses highlight system, not traditional glow)
 #define OFFSET_HIGHLIGHT_SETTINGS	0x6b87500
